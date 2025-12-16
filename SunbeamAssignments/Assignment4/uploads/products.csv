@@ -1,0 +1,31 @@
+product_id,product_name,category,,price,quantity
+101,Wireless Mouse,Electronics,,599,25
+102,Keyboard,Electronics,,800,15
+103,USB Cable,Accessories,,199,50
+104,Notebook,Stationery,,49,120
+105,Water Bottle,Home,,299,40
+106,Backpack,Bags,,899,10
+107,Pen,Stationery,,20,300
+108,Headphones,Electronics,,1299,8
+109,Coffee Mug,Home,,149,60
+110,HDMI Cable,Accessories,,299,35
+111,Ecatador Lexic Lan,,,1450,30
+112,Laptop Stand        Electronics,,,1450,30
+113,Mobile Charger      Electronics,,,1450,30
+114,Power Bank          Electronics,,,1450,30
+115,Bluetooth Speaker   Electronics,,,1450,30
+116,Smart Watch         Electronics,,,1450,30
+117,Table Lamp          Home,,,1450,30
+118,Desk Organizer      Stationery,,,1450,30
+119,Sticky Notes        Stationery,,,1450,30
+120,Highlighter         Stationery,,,1450,30
+121,File Folder         Stationery,,,1450,30
+122,Office Chair        Furniture,,,1450,30
+123,Study Table         Furniture,,,1450,30
+124,Travel Pouch        Bags,,,1450,30
+125,Laptop Sleeve       Bags,,,1450,30
+126,Handbag             Bags,,,1450,30
+127,Extension Cord      Accessories,,,1450,30
+128,Earphone Case       Accessories,,,1450,30
+129,Screen Protector    Accessories,,,1450,30
+130,Mouse Pad           Accessories,,,1450,30
